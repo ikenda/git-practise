@@ -38,3 +38,5 @@ T.N.T. I'm dynamite (oi, oi, oi)
 T.N.T. and I'll win the fight (oi, oi, oi)
 T.N.T. I'm a power load (oi, oi, oi)
 T.N.T. watch me explode!
+
+new string
