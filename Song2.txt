@@ -40,3 +40,5 @@ T.N.T. I'm a power load (oi, oi, oi)
 T.N.T. watch me explode!
 
 new string
+
+last string
